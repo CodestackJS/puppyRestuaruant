@@ -1,0 +1,50 @@
+
+
+/* Navbar Section */
+body{
+    background-image: url("../images/assets/bgtexture.jpg");
+}
+
+.bgTexture{
+    background-image: url("../images/assets/bgtexture.jpg");
+}
+
+/*------------------*/
+
+/* Header Section */
+.headerPhoto{
+        display:flex;
+        justify-content: center;
+        align-items: center;
+        background: url("/images/assets/homeHero.jpg") center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        position:relative;
+        height: 35rem;
+}
+
+/*------------------*/
+
+.hmSingle{
+    display: flex;
+    justify-content: space-around;
+    border-left: 2px;
+    padding-top: 100px;
+    
+}
+
+.mzSand{
+    padding-bottom: 5rem;
+    background-color: white;
+    border-right: 2px;
+    
+}
+.txtMargin1{
+    padding-top: 3%;
+    padding-left: 2rem;
+    padding-right: 2rem; 
+}
+.txtMargin{
+    padding-left: 2rem;
+    padding-right: 2rem;   
+}
